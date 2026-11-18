@@ -1,0 +1,14 @@
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\bin\Debug\net10.0\RemidiPBO.exe
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\bin\Debug\net10.0\RemidiPBO.deps.json
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\bin\Debug\net10.0\RemidiPBO.runtimeconfig.json
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\bin\Debug\net10.0\RemidiPBO.dll
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\bin\Debug\net10.0\RemidiPBO.pdb
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.AssemblyInfoInputs.cache
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.AssemblyInfo.cs
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.csproj.CoreCompileInputs.cache
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.dll
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\refint\RemidiPBO.dll
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.pdb
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\RemidiPBO.genruntimeconfig.cache
+C:\Users\Hype GLK\source\repos\RemidiPBO\RemidiPBO\obj\Debug\net10.0\ref\RemidiPBO.dll
